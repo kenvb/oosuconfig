@@ -1,0 +1,1 @@
+#OOSU config 
